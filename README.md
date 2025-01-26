@@ -1,5 +1,3 @@
-Nicolas Riley & Marilyn Ma
-
 Description: 
 
 We will be simulating the board game Reversi or Othello through Python. The game takes place on a 8x8 board with player one being X and player two being O. Each turn, players must capture some of their opponent's pieces by making a play that sandwiches the opponent's piece(s) between their own. 
