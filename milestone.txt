@@ -1,0 +1,13 @@
+Nicolas Riley & Marilyn Marilyn
+
+Description: 
+
+We will be simulating the board game Reversi or Othello through Python. The game takes place on a 8x8 board with player one being X and player two being O. Each turn, players must capture some of their opponent's pieces by making a play that sandwiches the opponent's piece(s) between their own. 
+
+When a piece(s) is captured, they are flipped to the opponent's symbol i.e. if player one places an X in the blank, player two's O's will turn into into X's XOOO_ --> XOOOX -> XXXXX
+
+The game is then played until the board is full and the winner will be determined once the board is full. Players will have the option of choosing between three game-modes: human vs human match, human vs AI match, and AI vs AI match.
+
+Progress:
+
+We've been making significant progress with each work session: we successfully coded for each of the 8 directions in which a capture can be made and are currently working on deciding how we'd like our AI to play. Currently, they are all random, but we are thinking of programming them to behave based on ply 1 and Misère rules.
